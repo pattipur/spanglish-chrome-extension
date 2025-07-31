@@ -40,3 +40,20 @@ Spanglish is a Chrome extension for English speakers who want to gradually incre
 This extension only modifies text on web pages you view. It does **not** collect or store any personal data.
 
 ---
+## 🧠 Author
+
+Created by **Marisombra** — the shadow tide.  
+Also known as Patricia, a developer, game designer, and bilingual dreamer.  
+Check out more projects at [https://github.com/pattipur](https://github.com/pattipur)
+
+---
+
+## 💌 Want to Help?
+
+Suggestions, improvements, or new language packs are welcome — feel free to fork or open an issue!
+
+---
+
+## 📎 License
+
+MIT License
