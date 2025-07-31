@@ -24,6 +24,21 @@ Spanglish is a Chrome extension for English speakers who want to gradually incre
 5. Set your preferred translation percentage in the popup
 6. Browse the web — now with a touch of español 🇪🇸
 
+## 📦 Quick Install
+
+Want to try it fast? Just download the zipped extension and load it in Chrome:
+
+➡️ [**Download ZIP**](https://github.com/pattipur/spanglish-extension/raw/main/spanglish-extension.zip)
+
+Then:
+
+1. Unzip the file somewhere on your computer
+2. Go to `chrome://extensions` in Chrome
+3. Enable **Developer Mode** (top right)
+4. Click **Load unpacked**
+5. Select the unzipped folder
+6. Enjoy browsing en Spanglish 🌐🧠
+
 ---
 
 ## ✨ Who It's For
