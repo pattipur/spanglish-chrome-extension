@@ -1,0 +1,42 @@
+Spanglish Chrome Extension 🌎🧠
+
+**Learn Spanish without leaving your favorite websites.**
+
+Spanglish is a Chrome extension for English speakers who want to gradually increase their exposure to Spanish while browsing the web. It gently replaces a customizable percentage of English words on any page with their Spanish equivalents — helping you learn organically, without interrupting your flow.
+
+---
+
+## 🧩 What It Does
+
+- Replaces **a percentage of English words** with Spanish words in real time
+- Lets you **adjust the intensity** — start with 5%, or crank it up to full immersion!
+- Works on most websites, articles, and blogs
+- Designed to **blend learning into your daily life** effortlessly
+
+---
+
+## 🛠 How to Use It
+
+1. **Download or clone this repo**
+2. Open `chrome://extensions` in your Chrome browser
+3. Enable **Developer mode** (top right)
+4. Click **Load unpacked** and select the folder with the extension files
+5. Set your preferred translation percentage in the popup
+6. Browse the web — now with a touch of español 🇪🇸
+
+---
+
+## ✨ Who It's For
+
+- English speakers learning Spanish
+- Bilinguals who want to reinforce their vocabulary
+- Parents or teachers creating passive exposure for learners
+- Curious language lovers looking to blend cultures
+
+---
+
+## 🔒 Permissions
+
+This extension only modifies text on web pages you view. It does **not** collect or store any personal data.
+
+---
